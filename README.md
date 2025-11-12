@@ -59,6 +59,7 @@ python leetcode problems
 | [0036-valid-sudoku](https://github.com/shriharit12/python-leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shriharit12/python-leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shriharit12/python-leetcode-problems/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/shriharit12/python-leetcode-problems/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ python leetcode problems
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shriharit12/python-leetcode-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/shriharit12/python-leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shriharit12/python-leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/shriharit12/python-leetcode-problems/tree/master/0041-first-missing-positive) |
 ## Sliding Window
 |  |
 | ------- |
